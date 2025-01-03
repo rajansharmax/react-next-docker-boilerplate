@@ -25,7 +25,7 @@ This repository provides a boilerplate setup for building and deploying React an
 ### 1. Clone the repository:
 ```bash
 git clone git@github.com:rajansharmax/react-next-docker-boilerplate.git
-
+```
 
 **Rajan Sharma**  
 Username: [rajansharmax](https://github.com/rajansharmax)
